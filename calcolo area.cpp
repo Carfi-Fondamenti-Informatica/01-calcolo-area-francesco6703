@@ -12,5 +12,5 @@ Arettangolo=a*b;
 Atrapezio=((a+b)*c)/2;
 
 cout << Atriangolo << "\n" << Aquadrato << "\n" << Arettangolo << "\n" << Atrapezio;
-return0;
+return 0;
 }
